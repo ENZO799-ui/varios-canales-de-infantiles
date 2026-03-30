@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,CARTTON NETWORK 
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-35.playlist.m3u8
+#EXTINF:-1,CARTTON NETWORK HD
+http://tr.live.clarovtrcdn.vtrplay.com/cartoonhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,CARTOONITO
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-30.playlist.m3u8
+#EXTINF:-1,DISNEY 
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-32.playlist.m3u8
+#EXTINF:-1,DISNEY JR
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-35.playlist.m3u8
+#EXTINF:-1,DISNEY JR HD
+http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,NICK
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-35.playlist.m3u8
+#EXTINF:-1,DISCOVERY KIDS
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-35.playlist.m3u8
+#EXTINF:-1,PAKA PAKA
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-35.playlist.m3u8
